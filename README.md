@@ -63,6 +63,10 @@ By leveraging parallelism inherent in the Vedic multiplication technique, this d
 
 The **Urdhva Tiryagbhyam Sutra** ("Vertically and Crosswise") allows parallel partial product generation and minimized carry propagation, which makes it highly suitable for hardware acceleration of multiplication.
 
+
+<img width="383" height="250" alt="image" src="https://github.com/user-attachments/assets/0a184f85-b1db-4300-8605-7360a2bb2cc9" />
+
+
 ### Benefits:
 - Reduced delay due to parallelism
 - Simplified logic and fewer gates
